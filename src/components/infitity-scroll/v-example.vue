@@ -47,6 +47,7 @@ span {
   .example__link {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    margin: 0;
   }
   span {
     margin: 5px 0;

@@ -39,5 +39,9 @@ section {
   section {
     flex-direction: column;
   }
+  .btn {
+    margin-left: 0px;
+  }
+  
 }
 </style>
